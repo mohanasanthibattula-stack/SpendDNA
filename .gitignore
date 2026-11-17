@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+*.pdf
+.env
+.DS_Store
+*.py
